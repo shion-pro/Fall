@@ -22,6 +22,16 @@ Shion-Proです。
 
 * 秋：紅葉
 
+こんな感じです(^^♪(それぞれ上から順にhigh, medium, lowの量になっています)
+
+![winter](https://user-images.githubusercontent.com/52683992/105634191-34e2f700-5ea0-11eb-9cee-feb31eeed274.png)
+
+![spring](https://user-images.githubusercontent.com/52683992/105634203-3f04f580-5ea0-11eb-9a52-c6408626b316.png)
+
+![summer](https://user-images.githubusercontent.com/52683992/105634205-462c0380-5ea0-11eb-9e4b-ef3c1c65ed91.png)
+
+![autumn](https://user-images.githubusercontent.com/52683992/105634212-4c21e480-5ea0-11eb-9071-34c8f6b7eb1e.png)
+
 ### 使い方
 
 #### 1. ダウンロードした後Fallフォルダを使用したいhtmlファイルと同じ階層に配置
