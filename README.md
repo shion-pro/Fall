@@ -6,6 +6,8 @@ Hi($・・)/~~~
 
 Shion-Proです。
 
+![Shion-Pro-iCon](https://user-images.githubusercontent.com/52683992/105633873-7bcfed00-5e9e-11eb-8f14-031fb8dad988.png)
+
 今回はJavascriptのモジュール?的なものを作ってみました。
 
 これは、「指定する要素に雪など(*1)を降らせることが出来る」といった感じのものです。
